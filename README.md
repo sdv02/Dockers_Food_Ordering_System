@@ -1,4 +1,4 @@
-# Dockers_food_ordering_system
+# OS_Project
 
 
 Dockerizing DBMS project.
